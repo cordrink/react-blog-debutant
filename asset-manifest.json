@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cordrink/static/css/main.ec8968db.css",
+    "main.js": "/cordrink/static/js/main.3d20ee43.js",
+    "index.html": "/cordrink/index.html",
+    "main.ec8968db.css.map": "/cordrink/static/css/main.ec8968db.css.map",
+    "main.3d20ee43.js.map": "/cordrink/static/js/main.3d20ee43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8968db.css",
+    "static/js/main.3d20ee43.js"
+  ]
+}
